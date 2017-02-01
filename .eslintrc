@@ -4,9 +4,9 @@
   ],
   "parserOptions": {
     "ecmaVersion": 6,
-      "ecmaFeatures": {
-        "jsx": true
-      }
+    "ecmaFeatures": {
+      "jsx": true
+    }
   },
   "rules": {
     "react/jsx-indent": ["error", "tab"],
