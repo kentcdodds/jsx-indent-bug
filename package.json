@@ -1,0 +1,16 @@
+{
+  "name": "jsx-indent-bug",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:kentcdodds/jsx-indent-bug.git",
+  "author": "Kent C. Dodds <kent@doddsfamily.us> (http://kentcdodds.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "3.14.1",
+    "eslint-plugin-react": "6.9.0"
+  },
+  "scripts": {
+    "lint": "eslint index.js",
+    "fix": "eslint --fix index.js"
+  }
+}

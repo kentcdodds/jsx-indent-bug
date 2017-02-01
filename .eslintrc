@@ -1,0 +1,15 @@
+{
+  "plugins": [
+    "react"
+  ],
+  "parserOptions": {
+    "ecmaVersion": 6,
+      "ecmaFeatures": {
+        "jsx": true
+      }
+  },
+  "rules": {
+    "react/jsx-indent": ["error", "tab"],
+    "indent": ["error", "tab"],
+  }
+}
